@@ -31,3 +31,4 @@
 * 支持 Full Cone NAT
 
 official package & luci go
+build trigger
